@@ -1,8 +1,10 @@
 [package]
 name = "then"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-authors = ["Mearkatz <drquinsey@gmail.com>"]
+authors = [
+    "Mearkatz <drquinsey@gmail.com>",
+]
 description = "a library for adding two numbers"
 license = "MIT"
 
